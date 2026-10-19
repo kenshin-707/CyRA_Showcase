@@ -1,0 +1,1067 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 67,
+      "name": "BASE x=2*32",
+      "category": "Cryptography",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 40,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 26,
+        "user_name": "4P3X",
+        "date": "2026-10-08 06:29:32.781499"
+      }
+    },
+    {
+      "id": 68,
+      "name": " Welcome to XOR Message",
+      "category": "Cryptography",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 18,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 26,
+        "user_name": "4P3X",
+        "date": "2026-10-08 06:39:47.768877"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Morse Madness Challenge",
+      "category": "Cryptography",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 22,
+      "first_blood": {
+        "team_id": 20,
+        "team_name": "ZeroTrace",
+        "user_id": 23,
+        "user_name": "Yokeshwari R",
+        "date": "2026-10-08 06:50:44.190915"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Hidden Symbols",
+      "category": "Cryptography",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 14,
+      "first_blood": {
+        "team_id": 54,
+        "team_name": "ROOM 202",
+        "user_id": 94,
+        "user_name": "LOGESHWARAN",
+        "date": "2026-10-08 07:05:40.710547"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Emoji Secret",
+      "category": "Cryptography",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 22,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 33,
+        "user_name": "CHAN'GD",
+        "date": "2026-10-08 06:30:24.826865"
+      }
+    },
+    {
+      "id": 72,
+      "name": "Two-Layer Cipher",
+      "category": "Cryptography",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 15,
+      "first_blood": {
+        "team_id": 33,
+        "team_name": "cybertronz",
+        "user_id": 49,
+        "user_name": "cybertronz",
+        "date": "2026-10-08 06:58:04.564081"
+      }
+    },
+    {
+      "id": 73,
+      "name": "Bathroom Concert Challenge",
+      "category": "Cryptography",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 7,
+      "first_blood": {
+        "team_id": 54,
+        "team_name": "ROOM 202",
+        "user_id": 94,
+        "user_name": "LOGESHWARAN",
+        "date": "2026-10-08 07:40:44.567024"
+      }
+    },
+    {
+      "id": 75,
+      "name": "Password of the Locker",
+      "category": "Cryptography",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 5,
+      "first_blood": {
+        "team_id": 27,
+        "team_name": "CYREX",
+        "user_id": 89,
+        "user_name": "syed",
+        "date": "2026-10-08 08:22:09.462037"
+      }
+    },
+    {
+      "id": 79,
+      "name": "TRACE FLAG",
+      "category": "Cryptography",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 4,
+      "first_blood": {
+        "team_id": 59,
+        "team_name": "Techvortex",
+        "user_id": 130,
+        "user_name": "PRAJITH V",
+        "date": "2026-10-08 10:15:08.904711"
+      }
+    },
+    {
+      "id": 81,
+      "name": "The Outlier",
+      "category": "Cryptography",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 90,
+      "name": "Cipher Maze",
+      "category": "Cryptography",
+      "value": 150,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 22,
+        "team_name": "Null Hunters",
+        "user_id": 21,
+        "user_name": "Niranjan P",
+        "date": "2026-10-08 09:23:19.054498"
+      }
+    },
+    {
+      "id": 91,
+      "name": "SIGNALRAILCIPHER",
+      "category": "Cryptography",
+      "value": 150,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 84,
+      "name": "Quantum Resistant",
+      "category": "Cryptography",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 9,
+      "first_blood": {
+        "team_id": 22,
+        "team_name": "Null Hunters",
+        "user_id": 21,
+        "user_name": "Niranjan P",
+        "date": "2026-10-08 07:53:19.914746"
+      }
+    },
+    {
+      "id": 86,
+      "name": "Operation Double Sign",
+      "category": "Cryptography",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 4,
+      "first_blood": {
+        "team_id": 59,
+        "team_name": "Techvortex",
+        "user_id": 90,
+        "user_name": "kavipriyan.k",
+        "date": "2026-10-08 08:48:10.865661"
+      }
+    },
+    {
+      "id": 87,
+      "name": "Cold Storage",
+      "category": "Cryptography",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 22,
+        "team_name": "Null Hunters",
+        "user_id": 21,
+        "user_name": "Niranjan P",
+        "date": "2026-10-08 07:40:15.373678"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Vision",
+      "category": "Forensics",
+      "value": 10,
+      "state": "visible",
+      "solves_count": 43,
+      "first_blood": {
+        "team_id": 20,
+        "team_name": "ZeroTrace",
+        "user_id": 23,
+        "user_name": "Yokeshwari R",
+        "date": "2026-10-08 06:27:01.375148"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Section 13 Mission",
+      "category": "Forensics",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 3,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 45,
+        "user_name": "DHANUSH L",
+        "date": "2026-10-08 06:38:13.737073"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Angry Bunny ",
+      "category": "Forensics",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 8,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 45,
+        "user_name": "DHANUSH L",
+        "date": "2026-10-08 06:44:10.078962"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Brain is not Braining",
+      "category": "Forensics",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 6,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 45,
+        "user_name": "DHANUSH L",
+        "date": "2026-10-08 06:46:00.252976"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Suspicious Image",
+      "category": "Forensics",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 67,
+        "team_name": "dark protocol",
+        "user_id": 147,
+        "user_name": "Ananth",
+        "date": "2026-10-08 08:04:49.556215"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Packet Analysis",
+      "category": "Forensics",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 9,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 45,
+        "user_name": "DHANUSH L",
+        "date": "2026-10-08 06:54:36.345086"
+      }
+    },
+    {
+      "id": 18,
+      "name": "The Silent Slide",
+      "category": "Forensics",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 3,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 45,
+        "user_name": "DHANUSH L",
+        "date": "2026-10-08 07:46:29.915967"
+      }
+    },
+    {
+      "id": 19,
+      "name": "ARCHED",
+      "category": "Forensics",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 21,
+      "name": "\"Removed Before Push\"",
+      "category": "Forensics",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 68,
+        "team_name": "test team-don't afraid",
+        "user_id": 166,
+        "user_name": "Test User",
+        "date": "2026-10-08 10:25:56.483811"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Post-Mortem",
+      "category": "Forensics",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 68,
+        "team_name": "test team-don't afraid",
+        "user_id": 166,
+        "user_name": "Test User",
+        "date": "2026-10-08 10:28:37.525983"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Static v2",
+      "category": "Forensics",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 27,
+      "name": "ERased Traces",
+      "category": "Forensics",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 59,
+        "team_name": "Techvortex",
+        "user_id": 130,
+        "user_name": "PRAJITH V",
+        "date": "2026-10-08 10:18:16.942346"
+      }
+    },
+    {
+      "id": 32,
+      "name": "The Insider's Ghost",
+      "category": "Forensics",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 33,
+      "name": "The Hogwarts Archive",
+      "category": "Forensics",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 97,
+      "name": "The Traitor's Blueprint",
+      "category": "Forensics",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 54,
+      "name": "Welcome to Japan",
+      "category": "Linux",
+      "value": 10,
+      "state": "visible",
+      "solves_count": 12,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 27,
+        "user_name": "MANIKANDAN",
+        "date": "2026-10-08 06:32:27.275251"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Narita Airport, Tokyo",
+      "category": "Linux",
+      "value": 30,
+      "state": "visible",
+      "solves_count": 6,
+      "first_blood": {
+        "team_id": 31,
+        "team_name": "Sec_Vectors",
+        "user_id": 46,
+        "user_name": "iyswarya",
+        "date": "2026-10-08 07:42:40.461187"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Shibuya Crossing, Tokyo",
+      "category": "Linux",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 08:19:14.639522"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Akihabara, Tokyo",
+      "category": "Linux",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 08:32:07.735339"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Kyoto",
+      "category": "Linux",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 08:38:45.972377"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Dotonbori, Osaka",
+      "category": "Linux",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 08:43:56.943620"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Hiroshima Peace Park",
+      "category": "Linux",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 09:26:50.665455"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Nagoya shrine",
+      "category": "Linux",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 09:33:54.483727"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Sapporo Snow Festival",
+      "category": "Linux",
+      "value": 60,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 09:37:02.120229"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Okinawa",
+      "category": "Linux",
+      "value": 60,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 09:52:04.505555"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Mt. Fuji Summit",
+      "category": "Linux",
+      "value": 60,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 37,
+        "user_name": "Mithun_S_0071",
+        "date": "2026-10-08 10:08:24.650144"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Oggy's Fridge Maze",
+      "category": "Linux",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 31,
+        "team_name": "Sec_Vectors",
+        "user_id": 46,
+        "user_name": "iyswarya",
+        "date": "2026-10-08 08:01:40.318258"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Digital Footprint",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 18,
+      "first_blood": {
+        "team_id": 33,
+        "team_name": "cybertronz",
+        "user_id": 49,
+        "user_name": "cybertronz",
+        "date": "2026-10-08 07:56:27.992724"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Spotify Sleuth",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 26,
+        "user_name": "4P3X",
+        "date": "2026-10-08 10:02:16.741574"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Overthinking",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 32,
+      "first_blood": {
+        "team_id": 47,
+        "team_name": "TECH PIRATE NINJAS",
+        "user_id": 67,
+        "user_name": "RISHIKESH VRISHI",
+        "date": "2026-10-08 07:10:34.173154"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Professional Trail",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 28,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 26,
+        "user_name": "4P3X",
+        "date": "2026-10-08 07:21:09.920062"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Pixel Hunt",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 19,
+      "first_blood": {
+        "team_id": 57,
+        "team_name": "Tech Nova",
+        "user_id": 112,
+        "user_name": "abishek",
+        "date": "2026-10-08 07:14:45.112532"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Know Your Hardware",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 12,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 26,
+        "user_name": "4P3X",
+        "date": "2026-10-08 07:24:11.902339"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Silent Entry",
+      "category": "OSINT",
+      "value": 20,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 49,
+      "name": "Pin point",
+      "category": "OSINT",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 5,
+      "first_blood": {
+        "team_id": 56,
+        "team_name": "TECH STROM",
+        "user_id": 62,
+        "user_name": "Kishore.R",
+        "date": "2026-10-08 08:56:49.630885"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Digital Breadcrumbs",
+      "category": "OSINT",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 52,
+      "name": "Find Him",
+      "category": "OSINT",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 12,
+      "first_blood": {
+        "team_id": 34,
+        "team_name": "TECHSTARS",
+        "user_id": 48,
+        "user_name": "Abirami.S",
+        "date": "2026-10-08 07:30:27.023310"
+      }
+    },
+    {
+      "id": 53,
+      "name": "when?",
+      "category": "OSINT",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 4,
+      "first_blood": {
+        "team_id": 31,
+        "team_name": "Sec_Vectors",
+        "user_id": 44,
+        "user_name": "Tamizhoviya",
+        "date": "2026-10-08 10:18:27.749930"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Run Away",
+      "category": "Reverse Engineering",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 30,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 22,
+        "user_name": "Anitos",
+        "date": "2026-10-08 06:33:55.719224"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sword Skill Recovery",
+      "category": "Reverse Engineering",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 4,
+      "first_blood": {
+        "team_id": 22,
+        "team_name": "Null Hunters",
+        "user_id": 50,
+        "user_name": "Nandhini",
+        "date": "2026-10-08 07:25:35.637498"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Sibyl's Cipher",
+      "category": "Reverse Engineering",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 19,
+      "first_blood": {
+        "team_id": 30,
+        "team_name": "N3TC4T",
+        "user_id": 113,
+        "user_name": "techno",
+        "date": "2026-10-08 07:02:15.358579"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Hidden Name from L",
+      "category": "Reverse Engineering",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 9,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 27,
+        "user_name": "MANIKANDAN",
+        "date": "2026-10-08 07:28:01.060653"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Breath of Memory",
+      "category": "Reverse Engineering",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 21,
+        "team_name": "Anitos",
+        "user_id": 22,
+        "user_name": "Anitos",
+        "date": "2026-10-08 09:53:38.909399"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Kingdom of Science: Sealed Formula",
+      "category": "Reverse Engineering",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 7,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 33,
+        "user_name": "CHAN'GD",
+        "date": "2026-10-08 07:49:31.711773"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Kaneki's Locked Fridge",
+      "category": "Reverse Engineering",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 27,
+        "user_name": "MANIKANDAN",
+        "date": "2026-10-08 08:05:08.058756"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Secret Technique",
+      "category": "Reverse Engineering",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 26,
+      "name": "Six Characters, One Curse",
+      "category": "Reverse Engineering",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 28,
+      "name": "Route to the Grand Line",
+      "category": "Reverse Engineering",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 29,
+      "name": "Night City Ghost Data",
+      "category": "Reverse Engineering",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 40,
+        "team_name": "QuadraX",
+        "user_id": 163,
+        "user_name": "DEENADHAYALAN.R",
+        "date": "2026-10-08 10:05:17.341221"
+      }
+    },
+    {
+      "id": 92,
+      "name": "Overflow",
+      "category": "Reverse Engineering",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 58,
+      "name": "wayne-enterprises",
+      "category": "Web Exploitation",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 5,
+      "first_blood": {
+        "team_id": 57,
+        "team_name": "Tech Nova",
+        "user_id": 114,
+        "user_name": "R.Kishore kumar",
+        "date": "2026-10-08 08:40:06.263168"
+      }
+    },
+    {
+      "id": 59,
+      "name": "SecureCorp\u2122",
+      "category": "Web Exploitation",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 12,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 33,
+        "user_name": "CHAN'GD",
+        "date": "2026-10-08 06:48:03.816510"
+      }
+    },
+    {
+      "id": 93,
+      "name": "The Rules That Nobody Enforces",
+      "category": "Web Exploitation",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 4,
+      "first_blood": {
+        "team_id": 26,
+        "team_name": "4P3X",
+        "user_id": 33,
+        "user_name": "CHAN'GD",
+        "date": "2026-10-08 07:28:56.384137"
+      }
+    },
+    {
+      "id": 95,
+      "name": "The Secret in Plain Sight",
+      "category": "Web Exploitation",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 1,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 29,
+        "user_name": "kishore T",
+        "date": "2026-10-08 08:26:50.323580"
+      }
+    },
+    {
+      "id": 96,
+      "name": "The Configuration Leak",
+      "category": "Web Exploitation",
+      "value": 50,
+      "state": "visible",
+      "solves_count": 10,
+      "first_blood": {
+        "team_id": 25,
+        "team_name": "VEX-7",
+        "user_id": 29,
+        "user_name": "kishore T",
+        "date": "2026-10-08 06:52:30.395394"
+      }
+    },
+    {
+      "id": 77,
+      "name": "The Secret Behind the Session",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 78,
+      "name": "CyRA Portal",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 2,
+      "first_blood": {
+        "team_id": 31,
+        "team_name": "Sec_Vectors",
+        "user_id": 46,
+        "user_name": "iyswarya",
+        "date": "2026-10-08 09:01:32.427244"
+      }
+    },
+    {
+      "id": 80,
+      "name": "none shall pass",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 82,
+      "name": "Gram Box",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 88,
+      "name": "The Gatekeeper\u2019s Mistake",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    },
+    {
+      "id": 89,
+      "name": "The ID That Wasn\u2019t Yours",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 5,
+      "first_blood": {
+        "team_id": 57,
+        "team_name": "Tech Nova",
+        "user_id": 114,
+        "user_name": "R.Kishore kumar",
+        "date": "2026-10-08 09:56:14.228425"
+      }
+    },
+    {
+      "id": 94,
+      "name": "Print Your Prompt",
+      "category": "Web Exploitation",
+      "value": 100,
+      "state": "visible",
+      "solves_count": 10,
+      "first_blood": {
+        "team_id": 31,
+        "team_name": "Sec_Vectors",
+        "user_id": 46,
+        "user_name": "iyswarya",
+        "date": "2026-10-08 09:06:10.875508"
+      }
+    },
+    {
+      "id": 106,
+      "name": "The Golden Rite",
+      "category": "Web Exploitation",
+      "value": 200,
+      "state": "visible",
+      "solves_count": 0,
+      "first_blood": null
+    }
+  ]
+}

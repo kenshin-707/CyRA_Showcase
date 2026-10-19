@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <title>CYRA CTF 2026 // Scoreboard & Results Showcase</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+
+  <!-- Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700;800;900&family=Share+Tech+Mono&family=Space+Mono:wght@400;700&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- CyRA Theme & Custom Showcase Styles -->
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/showcase.css">
+</head>
+<body>
+
+<!-- Cherry Blossom Sakura Petals Canvas Layer -->
+<canvas id="cyra-sakura-canvas" class="cyra-sakura-canvas"></canvas>
+
+<div class="showcase-wrapper">
+
+  <!-- Cyberpunk Top Navigation Bar -->
+  <header class="showcase-navbar">
+    <div class="container d-flex justify-content-between align-items-center">
+      <a href="index.html" class="d-flex align-items-center text-decoration-none text-light">
+        <img src="assets/img/logo.png" alt="CyRA Logo" style="height: 36px; margin-right: 12px; filter: drop-shadow(0 0 8px rgba(255,96,128,0.5));">
+        <span style="font-family:'Orbitron', sans-serif; font-weight:800; font-size:1.15rem; letter-spacing:0.06em;">CYRA CTF</span>
+        <span class="brand-badge d-none d-sm-inline-block">2026 SHOWCASE</span>
+      </a>
+
+      <div class="d-flex align-items-center gap-3">
+        <a href="#scoreboard-section" class="text-decoration-none text-light small font-monospace d-none d-md-inline-block">
+          <i class="fa-solid fa-trophy text-warning me-1"></i> Standings
+        </a>
+        <a href="#chart-section" class="text-decoration-none text-light small font-monospace d-none d-md-inline-block">
+          <i class="fa-solid fa-chart-line text-info me-1"></i> Timeline
+        </a>
+        <a href="#categories-section" class="text-decoration-none text-light small font-monospace d-none d-md-inline-block">
+          <i class="fa-solid fa-layer-group text-danger me-1"></i> Challenges
+        </a>
+
+        <!-- Highlight CTA to Outro Closing Ceremony -->
+        <a href="outro.html" class="nav-outro-cta" title="Launch the Grand Escape Closing Ceremony">
+          <span class="pulse-dot"></span>
+          <span>OUTRO CEREMONY</span>
+          <i class="fa-solid fa-film ms-1"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Header Section -->
+  <section class="showcase-hero">
+    <div class="container">
+      <div class="hero-kicker">
+        <span>●</span> FINAL STANDINGS // VERIFIED COMPETITION ARCHIVE
+      </div>
+      <h1 class="hero-title">CYRA CTF 2026</h1>
+      <div class="hero-subtitle-jp">
+        サイバーセキュリティ競技会 · 最終リザルト発表
+      </div>
+
+      <!-- Outro Closing Ceremony Banner Card -->
+      <div class="outro-banner-card">
+        <div class="outro-banner-info text-start">
+          <h4>
+            <i class="fa-solid fa-clapperboard text-danger"></i>
+            Experience the Grand Escape Closing Ceremony
+          </h4>
+          <p>
+            Relive the cinematic 4:42 ceremony: dynamic RADWIMPS soundtrack sync, telemetry count-up, God of Blood coronation, and staff movie credits with actual photos!
+          </p>
+        </div>
+        <div>
+          <a href="outro.html" class="outro-banner-btn">
+            <i class="fa-solid fa-play"></i>
+            <span>PLAY OUTRO</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Telemetry Stats Grid -->
+      <div class="stats-grid" id="stats-section">
+        <div class="stat-box">
+          <div class="num gold" id="stat-total-teams">49</div>
+          <div class="lbl"><i class="fa-solid fa-shield-halved me-1"></i> Teams Registered</div>
+        </div>
+        <div class="stat-box">
+          <div class="num cyan" id="stat-total-contestants">149</div>
+          <div class="lbl"><i class="fa-solid fa-users me-1"></i> Contestants</div>
+        </div>
+        <div class="stat-box">
+          <div class="num pink" id="stat-total-solves">528</div>
+          <div class="lbl"><i class="fa-solid fa-flag me-1"></i> Flags Captured</div>
+        </div>
+        <div class="stat-box">
+          <div class="num" id="stat-total-challenges">62 / 80</div>
+          <div class="lbl"><i class="fa-solid fa-circle-check me-1"></i> Challenges Solved</div>
+        </div>
+        <div class="stat-box">
+          <div class="num red" id="stat-blood-champion" style="font-size: 1.35rem; padding-top: 8px;">Mithun_S_0071 (9 🩸)</div>
+          <div class="lbl"><i class="fa-solid fa-droplet text-danger me-1"></i> God of Blood MVP</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Grand Podium Section -->
+  <section class="container mb-5">
+    <div class="text-center mb-4">
+      <h2 style="font-family:'Orbitron', sans-serif; font-weight:800; font-size:1.8rem;">
+        <i class="fa-solid fa-award text-warning me-2"></i>
+        CHAMPIONS PODIUM
+      </h2>
+      <div class="text-muted font-monospace small">栄誉の殿堂 // Hall of Cyber Champions</div>
+    </div>
+
+    <div class="podium-container" id="podium-cards">
+      <!-- Populated dynamically by scoreboard.js -->
+    </div>
+  </section>
+
+  <!-- Interactive ECharts Score Timeline Graph -->
+  <section class="container mb-5" id="chart-section">
+    <div class="card bg-dark-subtle border-secondary-subtle" style="border-radius:16px; overflow:hidden; backdrop-filter:blur(10px);">
+      <div class="card-header border-secondary-subtle d-flex justify-content-between align-items-center py-3">
+        <div class="d-flex align-items-center gap-2">
+          <i class="fa-solid fa-chart-line text-danger fa-lg"></i>
+          <span style="font-family:'Orbitron', sans-serif; font-weight:700;">Top 10 Score Progression Timeline</span>
+          <span class="badge bg-secondary-subtle text-secondary font-monospace d-none d-sm-inline-block">スコア推移</span>
+        </div>
+        <span class="badge bg-dark-subtle border border-secondary-subtle font-monospace text-uppercase px-2 py-1" style="font-size:0.75rem;">
+          Cumulative Points
+        </span>
+      </div>
+      <div class="card-body p-2 p-md-3">
+        <div id="scoregraph" style="min-height: 440px; width: 100%;">
+          <div class="d-flex justify-content-center align-items-center" style="min-height: 400px;">
+            <i class="fa-solid fa-circle-notch fa-spin fa-3x fa-fw text-secondary"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Scoreboard Standings Table -->
+  <section class="container mb-5" id="scoreboard-section">
+    <div class="card bg-dark-subtle border-secondary-subtle" style="border-radius:16px; overflow:hidden; backdrop-filter:blur(10px);">
+      
+      <!-- Panel Header -->
+      <div class="card-header border-secondary-subtle d-flex justify-content-between align-items-center py-3">
+        <div class="d-flex align-items-center gap-2">
+          <i class="fa-solid fa-trophy text-warning fa-lg"></i>
+          <span style="font-family:'Orbitron', sans-serif; font-weight:700; font-size:1.15rem;">Official Scoreboard</span>
+          <span class="badge bg-secondary-subtle text-secondary font-monospace d-none d-sm-inline-block">作戦ランキング</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <span class="badge bg-success-subtle text-success border border-success-subtle font-monospace">
+            <span class="pulse-dot me-1" style="background:#22c55e; box-shadow:0 0 6px #22c55e;"></span>
+            VERIFIED
+          </span>
+          <span class="badge bg-dark-subtle border border-secondary-subtle font-monospace" id="scoreboard-count">
+            46 Teams
+          </span>
+        </div>
+      </div>
+
+      <div class="card-body p-3 p-md-4">
+        
+        <!-- Search & Filter Controls -->
+        <div class="search-filter-bar">
+          <div class="search-input-wrap">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="search-team" class="search-input" placeholder="Search by team name or member handle..." autocomplete="off">
+          </div>
+          <div class="filter-pills">
+            <button type="button" class="filter-pill active" data-filter="all">All Teams</button>
+            <button type="button" class="filter-pill" data-filter="top10">Top 10</button>
+            <button type="button" class="filter-pill" data-filter="bloods">First Bloods 🩸</button>
+            <button type="button" class="filter-pill" data-filter="highsolves">10+ Solves</button>
+          </div>
+        </div>
+
+        <!-- Table View -->
+        <div class="table-responsive">
+          <table class="cyra-scoreboard-table align-middle">
+            <thead>
+              <tr>
+                <th class="text-center cyra-th-rank" style="width: 90px;">Place</th>
+                <th class="text-start ps-3 cyra-th-team">Team & Members</th>
+                <th class="text-center cyra-th-solves" style="width: 140px;">Solves</th>
+                <th class="text-end pe-4 cyra-th-score" style="width: 160px;">Score</th>
+                <th class="text-center" style="width: 80px;">Details</th>
+              </tr>
+            </thead>
+            <tbody id="scoreboard-tbody">
+              <!-- Populated dynamically by scoreboard.js -->
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories & Challenges Matrix Section -->
+  <section class="container mb-5" id="categories-section">
+    <div class="text-center mb-4">
+      <h2 style="font-family:'Orbitron', sans-serif; font-weight:800; font-size:1.8rem;">
+        <i class="fa-solid fa-shapes text-info me-2"></i>
+        CHALLENGES MATRIX
+      </h2>
+      <div class="text-muted font-monospace small">作戦領域分析 // Category Breakdown & First Blood Solvers</div>
+    </div>
+
+    <div class="row" id="categories-container">
+      <!-- Populated dynamically by scoreboard.js -->
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-4 border-top border-secondary-subtle mt-5" style="background: rgba(8, 9, 20, 0.95);">
+    <div class="container text-center text-muted font-monospace small">
+      <div class="mb-2">
+        <strong class="text-light" style="font-family:'Orbitron', sans-serif;">CYRA CTF 2026</strong> &bull; Department of Cyber Security
+      </div>
+      <div class="text-secondary mb-3">
+        Closing Ceremony Soundtrack: RADWIMPS ft. Toko Miura — "Grand Escape" (天気の子)
+      </div>
+      <div>
+        <a href="outro.html" class="btn btn-sm btn-outline-danger rounded-pill px-3">
+          <i class="fa-solid fa-film me-1"></i> Watch Outro Ceremony
+        </a>
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+<!-- Team Drilldown Slide-Over Drawer -->
+<div class="team-drawer-backdrop" id="team-drawer-backdrop"></div>
+<div class="team-drawer" id="team-drawer">
+  <div class="drawer-header">
+    <div class="d-flex align-items-center gap-2">
+      <i class="fa-solid fa-shield-cat text-warning fa-lg"></i>
+      <h3 class="drawer-title mb-0" id="drawer-team-name">Team Name</h3>
+    </div>
+    <button type="button" class="drawer-close" id="drawer-close-btn" title="Close (ESC)">
+      <i class="fa-solid fa-xmark"></i>
+    </button>
+  </div>
+  <div class="drawer-body" id="drawer-body-content">
+    <!-- Populated dynamically when clicking a team -->
+  </div>
+</div>
+
+<!-- Embedded Telemetry Data Bundle (Immediate Offline & file:// Protocol Support) -->
+<script src="data/data-bundle.js"></script>
+
+<!-- Vendor Libraries -->
+<script src="assets/js/vendor/echarts.min.js"></script>
+<script src="assets/js/vendor/dayjs.min.js"></script>
+
+<!-- Sakura Particle Physics Engine -->
+<script src="assets/js/cyra-petals.js"></script>
+
+<!-- Scoreboard & Analytics Engine -->
+<script src="assets/js/scoreboard.js"></script>
+
+</body>
+</html>
